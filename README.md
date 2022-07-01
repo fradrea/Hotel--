@@ -1,6 +1,8 @@
 programa 
 {
+	
 	funcao inicio() 
+	
 	{
 	    real diaria, totalDias = 0.0 
 	    cadeia nome, sinal     = "continua"
